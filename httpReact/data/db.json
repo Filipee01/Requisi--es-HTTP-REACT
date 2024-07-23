@@ -29,6 +29,21 @@
       "id": "005e",
       "name": "cachecol",
       "price": "65"
+    },
+    {
+      "id": "bf76",
+      "name": "teclado",
+      "price": "40"
+    },
+    {
+      "id": "02ed",
+      "name": "mousepad",
+      "price": "20"
+    },
+    {
+      "id": "df1f",
+      "name": "caixinha de som",
+      "price": "35"
     }
   ]
 }

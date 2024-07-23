@@ -39,6 +39,15 @@ function App() {
     },
     body: JSON.stringify(product),
    })
+
+   //carregament dinâmico
+   const addedProcut = await res.json()
+
+   setProducts((prevProducts) => [...prevProducts, addedProcut])
+
+   //lipando os inputs
+   setName("")
+   setPrice("")
    
   }
 
